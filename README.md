@@ -4,7 +4,10 @@
 ## Linguagens
   [![My Skills](https://skillicons.dev/icons?i=js,cs)](https://skillicons.dev)
 ## Frameworks
-  [![My Skills](https://skillicons.dev/icons?i=vue,)](https://skillicons.dev)
+### Front
+  [![My Skills](https://skillicons.dev/icons?i=vue)](https://skillicons.dev)
+### Back
+  [![My Skills](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev)
 ## Ferramentas que estou me habituando
   ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 
