@@ -1,4 +1,14 @@
-## Hi there 👋
+# <img src="https://raw.githubusercontent.com/AndrewIzaki/gif_Testing/main/XiPu.gif" width="30px">Olá! 
+
+> Atualmente estou me focando no desenvolvimento web🕸️... Com foco nas seguintes tecnologias:
+## Linguagens
+  [![My Skills](https://skillicons.dev/icons?i=js,cs)](https://skillicons.dev)
+## Frameworks
+  [![My Skills](https://skillicons.dev/icons?i=vue,)](https://skillicons.dev)
+## Ferramentas que estou me habituando
+  ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+
+
 
 <!--
 **AndrewIzaki/AndrewIzaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
