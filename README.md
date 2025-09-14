@@ -9,7 +9,8 @@
 ### Back
   [![My Skills](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev)
 ## Ferramentas que estou me habituando
-  ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+  ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 
 
