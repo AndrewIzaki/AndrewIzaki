@@ -2,7 +2,7 @@
 
 > Atualmente estou me focando no desenvolvimento web🕸️... Com foco nas seguintes tecnologias:
 ## Linguagens
-  [![My Skills](https://skillicons.dev/icons?i=js,cs)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,cs,bash)](https://skillicons.dev)
 ## Frameworks
 ### Front
   [![My Skills](https://skillicons.dev/icons?i=vue)](https://skillicons.dev)
