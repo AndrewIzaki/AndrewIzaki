@@ -8,7 +8,7 @@
   [![My Skills](https://skillicons.dev/icons?i=vue)](https://skillicons.dev)
 ### Back
   [![My Skills](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev)
-## Ferramentas e Plataformas as quais estou me habituando...😎
+## Ferramentas e Plataformas as quais estou me habituando...🥶
   ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) 
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
   ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
