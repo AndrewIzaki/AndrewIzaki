@@ -1,4 +1,4 @@
-# Ola! <img src="https://raw.githubusercontent.com/AndrewIzaki/gif_Testing/main/XiPu.gif" width="30px">Olá!<img src="https://raw.githubusercontent.com/AndrewIzaki/gif_Testing/main/XiPu.gif" width="30px">
+# <img src="https://raw.githubusercontent.com/AndrewIzaki/gif_Testing/main/XiPu.gif" width="30px">Olá!<img src="https://raw.githubusercontent.com/AndrewIzaki/gif_Testing/main/XiPu.gif" width="30px">
 >
 
  Atualmente estou me focando no desenvolvimento web🕸️... Com foco nas seguintes tecnologias:
