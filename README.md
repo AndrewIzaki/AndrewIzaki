@@ -1,7 +1,7 @@
-# Ola!
+# Ola! <img src="https://raw.githubusercontent.com/AndrewIzaki/gif_Testing/main/XiPu.gif" width="30px">Olá!<img src="https://raw.githubusercontent.com/AndrewIzaki/gif_Testing/main/XiPu.gif" width="30px">
+>
 
-<img src="https://raw.githubusercontent.com/AndrewIzaki/gif_Testing/main/XiPu.gif" width="30px">Olá!<img src="https://raw.githubusercontent.com/AndrewIzaki/gif_Testing/main/XiPu.gif" width="30px">
-> Atualmente estou me focando no desenvolvimento web🕸️... Com foco nas seguintes tecnologias:
+ Atualmente estou me focando no desenvolvimento web🕸️... Com foco nas seguintes tecnologias:
 ## Linguagens
   [![My Skills](https://skillicons.dev/icons?i=js,cs,bash)](https://skillicons.dev)
 ## Frameworks
